@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vishubhardwaj/boilerplate_npm"
+		"url": "git@github.com:vishubhardwaj/boilerplate_npm.git"
 	}
 }
