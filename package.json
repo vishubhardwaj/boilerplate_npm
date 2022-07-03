@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vishu Bhardwaj",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/vishubhardwaj/boilerplate_npm"
 	}
 }
